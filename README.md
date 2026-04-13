@@ -33,6 +33,14 @@ Invite is a Deskgram 2 module for mass inviting Telegram users into groups and c
 4. Enable verification and safety rules if needed.
 5. Assign accounts and launch the task.
 
+## What usually comes before and after invite flows
+
+- [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en), when you need to build a relevant invite base first;
+- [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en), when accounts must be grouped and prepared before launch;
+- [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en), when stable infrastructure matters under load;
+- [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en), when invite runs are part of a broader community growth chain;
+- [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en), when you want to monitor launches, failures, and overall execution progress.
+
 ## Interface highlights
 
 ### Main screen
@@ -70,6 +78,8 @@ Invite is a Deskgram 2 module for mass inviting Telegram users into groups and c
 - [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en)
 - [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en)
 - [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en)
+- [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en)
+- [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en)
 
 ## FAQ
 

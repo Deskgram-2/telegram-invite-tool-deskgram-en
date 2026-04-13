@@ -1,5 +1,7 @@
 # Telegram Invite Tool with Deskgram 2
 
+![Invite Main](assets/screenshots/invite__main__en.png)
+
 Invite is a Deskgram 2 module for mass inviting Telegram users into groups and channels. It helps scale onboarding from a prepared audience base while controlling threads, limits, flood protection, verification, and execution safety.
 
 [Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) | [Website](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview)
@@ -30,6 +32,20 @@ Invite is a Deskgram 2 module for mass inviting Telegram users into groups and c
 3. Configure threads, limits, and delays.
 4. Enable verification and safety rules if needed.
 5. Assign accounts and launch the task.
+
+## Interface highlights
+
+### Main screen
+
+![Invite Main Screen](assets/screenshots/invite__main__en.png)
+
+### Recipient list
+
+![Invite Target List](assets/screenshots/invite__target-list__en.png)
+
+### Verification
+
+![Invite Verification](assets/screenshots/invite__verification__en.png)
 
 ## When it is especially useful
 

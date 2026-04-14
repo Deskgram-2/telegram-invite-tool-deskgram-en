@@ -88,6 +88,29 @@ Invite is a Deskgram 2 module for mass inviting Telegram users into groups and c
 | Scale community growth from a prepared audience base | `Invite Tool` |
 | Build a softer pre-invite communication layer | [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en) |
 
+## What to choose: Invite Tool or Join Groups
+
+| If your goal is | Better fit |
+|---|---|
+| Add external users into a group or channel | `Invite Tool` |
+| Connect your own accounts to the target environment first | [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en) |
+| Build a two-step growth route | Join Groups first, then Invite Tool |
+| Prepare the environment without touching the external audience yet | [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en) |
+
+## Scenario FAQ
+
+### When is it better to warm up or join groups before launching invite?
+
+When the account grid is new, the environment is not ready yet, or the growth route is longer than one simple action. In that case [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en) or the broader infrastructure layer should come first.
+
+### When does invite work better as the second step after private outreach?
+
+When users need context before entering a community or when the audience base is still relatively cold. Then the route [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en) -> Invite Tool often feels more natural than a direct invite jump.
+
+### What usually determines invite quality the most?
+
+The main factors are audience quality, account condition, limits, infrastructure stability, and whether invite is part of a logical broader route instead of an isolated action.
+
 ## Related repositories
 
 - [Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en)

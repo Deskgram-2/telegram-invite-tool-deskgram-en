@@ -72,6 +72,22 @@ Invite is a Deskgram 2 module for mass inviting Telegram users into groups and c
 | Exclusions are difficult to maintain | Blacklist and manual exclusions are supported |
 | Scaling across many accounts is messy | The module is designed for account grids |
 
+## Use cases
+
+- growing a group or channel from a prepared audience base after [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en);
+- launching invite workflows after account preparation in [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en) and infrastructure checks in [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en);
+- using invite as the second step in a wider community growth chain with [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en);
+- distributing large invite loads across many accounts with visibility into limits and verification.
+
+## What to choose: Invite Tool or Direct Messaging
+
+| If your goal is | Better fit |
+|---|---|
+| Bring users directly into a group or channel | `Invite Tool` |
+| Start with direct outreach and conversation first | [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en) |
+| Scale community growth from a prepared audience base | `Invite Tool` |
+| Build a softer pre-invite communication layer | [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en) |
+
 ## Related repositories
 
 - [Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en)

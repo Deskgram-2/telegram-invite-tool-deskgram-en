@@ -1,15 +1,15 @@
-# Telegram Invite Tool with Deskgram 2
+﻿# Telegram Invite Tool with Deskgram 2
 
 ![Invite Main](assets/screenshots/invite__main__en.png)
 
 Invite is a Deskgram 2 module for mass inviting Telegram users into groups and channels. It helps scale onboarding from a prepared audience base while controlling threads, limits, flood protection, verification, and execution safety.
 
-[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) | [Website](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview)
+[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) | [Website](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=en)
 ## Interactive Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Finvite)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Finvite&lang=en)
 
-Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Finvite)
+Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Finvite&lang=en)
 
 If you want to evaluate the interface before installing anything, open the web preview first: it helps you compare the module with nearby workflows and understand the section before setup.
 
@@ -147,3 +147,4 @@ Keep limits and delays conservative and use account rotation when needed.
 ### Where should the invite base come from?
 
 The most natural flow is to use a base prepared by Audience Parser.
+
